@@ -53,7 +53,28 @@ I've spent 7+ years building backend services, React front ends and cloud infras
 <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana">
 </p>
 
-### 📂 Side projects
+### ⭐ Featured: Go + PostgreSQL
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[hookline](https://github.com/Ahmedkholaif/hookline)**: reliable webhook delivery
+
+`SKIP LOCKED` queue with leases · full-jitter retries · dead-letter queue · per-endpoint circuit breaker · HMAC signing with secret rotation
+
+</td>
+<td width="50%" valign="top">
+
+**[ledgerd](https://github.com/Ahmedkholaif/ledgerd)**: double-entry ledger service
+
+Idempotent transfers · deadlock-free locking · DB-enforced invariants · concurrency stress tests · reconciliation audit
+
+</td>
+</tr>
+</table>
+
+### 📂 Earlier side projects
 
 | Project | What it is | Stack |
 |---|---|---|
