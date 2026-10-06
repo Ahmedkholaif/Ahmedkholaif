@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://ahmedkholaif.github.io"><img src="https://ahmedkholaif.github.io/assets/ahmad.jpg" width="140" alt="Ahmad Kholaif" style="border-radius:50%"></a>
+<a href="https://ahmedkholaif.github.io"><img src="avatar-circle.png" width="150" alt="Ahmad Kholaif"></a>
 
 # Ahmad Kholaif
 
