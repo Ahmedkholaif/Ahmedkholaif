@@ -1,11 +1,13 @@
-### Hi, I'm Ahmed Kholaif 👋
+### Hi, I'm Ahmad Kholaif 👋
 
-**Tech Lead & full-stack engineer** in Cairo, Egypt. I build backends, data pipelines and web apps with Node.js, TypeScript, React and the cloud, and I lead the teams that build them.
+**Senior full-stack engineer** in Cairo, Egypt, with 7+ years building backend services, React front ends and cloud infrastructure across fintech, food-tech and the public sector.
 
-- 🧑‍💻 Tech Lead at **The Food Lab**. Before that: IBM, Fixed Solutions
-- 🛠️ Node.js · NestJS · TypeScript · React · PostgreSQL · GCP · Docker · Kubernetes · Airbyte · dbt
+- 💳 Senior Software Engineer at **[Fena](https://fena.co)**, working on open banking and e-commerce: payments, invoicing, and Xero/QuickBooks/Shopify integrations
+- 🍳 Before that: founding engineer at **The Food Lab** (led the GCP → AWS migration), **IBM** (TAMM Abu Dhabi, TradeLens; IBM Excellence Award), **Fixed Solutions**
+- 🛠️ Go · Node.js · TypeScript · React · Next.js · PostgreSQL · MongoDB · AWS · GCP · Docker · Kubernetes
+- 🤖 AI-first workflow: Claude Code, Cursor, Codex
 - 🌐 Portfolio: **[ahmedkholaif.github.io](https://ahmedkholaif.github.io)**
-- 💼 [LinkedIn](https://www.linkedin.com/in/ahmedkholaif) · 📫 ahmed_kholaif@yahoo.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/ahmedkholaif) · 📫 ahmad.kholaif2@gmail.com
 
 #### Selected projects
 
