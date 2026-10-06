@@ -53,26 +53,22 @@ I've spent 7+ years building backend services, React front ends and cloud infras
 <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana">
 </p>
 
-### ⭐ Featured: Go + PostgreSQL
+### ⭐ Featured: two small, production-grade systems
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**Ledger platform**: one API contract, two interchangeable backends, one console. CI proves the backends are interchangeable on a shared database.
 
-**[hookline](https://github.com/Ahmedkholaif/hookline)**: reliable webhook delivery
+| Project | Stack | Highlights |
+|---|---|---|
+| **[ledgerd](https://github.com/Ahmedkholaif/ledgerd)** | Go · PostgreSQL | Idempotent transfers, deadlock-free locking, DB-enforced invariants, concurrency stress tests |
+| **[ledger-nest](https://github.com/Ahmedkholaif/ledger-nest)** | NestJS · TypeScript | Drop-in replacement for ledgerd: DI and dynamic modules, DTO validation, generated OpenAPI, interceptors, guards |
+| **[ledger-console](https://github.com/Ahmedkholaif/ledger-console)** | Next.js 16 · React 19 | Cache Components and PPR, Server Actions with `updateTag`, double-submit-safe transfers, streaming CSV, Playwright vs both backends |
 
-`SKIP LOCKED` queue with leases · full-jitter retries · dead-letter queue · per-endpoint circuit breaker · HMAC signing with secret rotation
+**Webhook platform**: deliver webhooks reliably, then watch them land live.
 
-</td>
-<td width="50%" valign="top">
-
-**[ledgerd](https://github.com/Ahmedkholaif/ledgerd)**: double-entry ledger service
-
-Idempotent transfers · deadlock-free locking · DB-enforced invariants · concurrency stress tests · reconciliation audit
-
-</td>
-</tr>
-</table>
+| Project | Stack | Highlights |
+|---|---|---|
+| **[hookline](https://github.com/Ahmedkholaif/hookline)** | Go · PostgreSQL | `SKIP LOCKED` queue with leases, full-jitter retries, dead-letter queue, circuit breaker, HMAC signing |
+| **[hookscope](https://github.com/Ahmedkholaif/hookscope)** | Node.js · React 19 | Zero-dependency Node server: SSE fan-out with `Last-Event-ID` resume, backpressure, streamed bodies; live React UI |
 
 ### 📂 Earlier side projects
 
