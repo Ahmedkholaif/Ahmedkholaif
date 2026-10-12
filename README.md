@@ -52,7 +52,7 @@ I've spent 7+ years building scalable backend services, full-stack applications,
 <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana">
 </p>
 
-### ⭐ Featured: two small, production-grade systems
+### ⭐ Featured: three small, production-grade systems
 
 **Ledger platform**: one API contract, two interchangeable backends, one console. CI proves the backends are interchangeable on a shared database.
 
@@ -68,6 +68,13 @@ I've spent 7+ years building scalable backend services, full-stack applications,
 |---|---|---|
 | **[hookline](https://github.com/Ahmedkholaif/hookline)** | Go · PostgreSQL | `SKIP LOCKED` queue with leases, full-jitter retries, dead-letter queue, circuit breaker, HMAC signing |
 | **[hookscope](https://github.com/Ahmedkholaif/hookscope)** | Node.js · React 19 | Zero-dependency Node server: SSE fan-out with `Last-Event-ID` resume, backpressure, streamed bodies; live React UI |
+
+**Webhook ingestion & fan-out**: accept webhooks, queue them on RabbitMQ, SQS or Pub/Sub, and push messages onward with exactly-once effects. Go and NestJS workers share the same queues.
+
+| Project | Stack | Highlights |
+|---|---|---|
+| **[hookgate](https://github.com/Ahmedkholaif/hookgate)** | Go · RabbitMQ · SQS · Pub/Sub | Transactional outbox, attempt fencing, UUIDv5 message ids, inbox consumers, retries + DLQ + replay, status timelines, Kubernetes |
+| **[hookgate-nest](https://github.com/Ahmedkholaif/hookgate-nest)** | NestJS · TypeScript | Same API, schema and wire format as hookgate; CI splits the pipeline across Go and NestJS both ways |
 
 ### 📂 Earlier side projects
 
