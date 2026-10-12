@@ -17,11 +17,11 @@
 
 ---
 
-I've spent 7+ years building backend services, React front ends and cloud infrastructure across **fintech, food-tech and the public sector**. My track record includes cutting cloud costs, hardening reliability and leading migrations. I work AI-first every day with Claude Code, Cursor and Codex.
+I've spent 7+ years building scalable backend services, full-stack applications, integrations and cloud infrastructure across **fintech, food-tech and the public sector**. My focus is payment and integration systems, distributed integrations, cloud migrations and reliability. I use Claude Code, Cursor and Codex every day to ship faster without lowering the bar.
 
 | | |
 |---|---|
-| 💳 **Now** | Senior Software Engineer at **Fena**, working on open banking and e-commerce: payments, invoicing, and Xero / QuickBooks / Shopify integrations in Go and Node.js |
+| 💳 **Now** | Senior Software Engineer at **Fena**, working on open banking and e-commerce: payments (Stripe, Ryft, Niftipay), invoicing, and an integration hub for Xero / QuickBooks / Shopify / ShipEngine in Node.js and Go |
 | 🍳 **Before** | Founding engineer at **The Food Lab** (led the GCP → AWS migration, built Airbyte + dbt pipelines) |
 | 🏛️ | **IBM**: TAMM Abu Dhabi and TradeLens; 🏆 IBM Excellence Award |
 | ⚡ | **Fixed Solutions**: Egypt's electricity modernization project (EEHC / Digital Egypt) |
@@ -41,7 +41,6 @@ I've spent 7+ years building backend services, React front ends and cloud infras
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
 <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white" alt="Redis">
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ">
-<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka">
 <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt">
 <br>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS">
