@@ -50,6 +50,12 @@ I've spent 7+ years building scalable backend services, full-stack applications,
 <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform">
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
 <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana">
+<br>
+<img src="https://img.shields.io/badge/Zapier_apps-FF4F00?style=flat-square&logo=zapier&logoColor=white" alt="Zapier apps">
+<img src="https://img.shields.io/badge/Inngest-1E1E2E?style=flat-square" alt="Inngest">
+<img src="https://img.shields.io/badge/LiveKit_voice_AI-1F1F1F?style=flat-square" alt="LiveKit voice AI">
+<img src="https://img.shields.io/badge/LLM_APIs-6B4FBB?style=flat-square" alt="LLM APIs">
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe">
 </p>
 
 ### ⭐ Featured: three small, production-grade systems
