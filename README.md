@@ -81,6 +81,7 @@ I've spent 7+ years building scalable backend services, full-stack applications,
 |---|---|---|
 | **[hookgate](https://github.com/Ahmedkholaif/hookgate)** | Go · RabbitMQ · SQS · Pub/Sub | Transactional outbox, attempt fencing, UUIDv5 message ids, inbox consumers, retries + DLQ + replay, status timelines, Kubernetes |
 | **[hookgate-nest](https://github.com/Ahmedkholaif/hookgate-nest)** | NestJS · TypeScript | Same API, schema and wire format as hookgate; CI splits the pipeline across Go and NestJS both ways |
+| **[hookgate-express](https://github.com/Ahmedkholaif/hookgate-express)** | Express · TypeScript | The same system without a framework, mapped piece by piece to NestJS; CI splits one pipeline across Go, NestJS and Express |
 
 ### 📂 Earlier side projects
 
