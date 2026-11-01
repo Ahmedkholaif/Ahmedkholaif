@@ -19,12 +19,15 @@
 
 I've spent 7+ years building scalable backend services, full-stack applications, integrations and cloud infrastructure across **fintech, food-tech and the public sector**. My focus is payment and integration systems, distributed integrations, cloud migrations and reliability. I use Claude Code, Cursor and Codex every day to ship faster without lowering the bar.
 
+**Domains:** open banking and payments · integrations and multi-way sync · e-commerce · food-tech · government digital transformation · shipping and logistics · energy and utilities · performance and load testing
+
 | | |
 |---|---|
 | 💳 **Now** | Senior Software Engineer at **Fena**, working on open banking and e-commerce: payments (Stripe, Ryft, Niftipay), invoicing, and an integration hub for Xero / QuickBooks / Shopify / ShipEngine in Node.js and Go |
 | 🍳 **Before** | Founding engineer at **The Food Lab** (led the GCP → AWS migration, built Airbyte + dbt pipelines) |
 | 🏛️ | **IBM**: TAMM Abu Dhabi and TradeLens; 🏆 IBM Excellence Award |
 | ⚡ | **Fixed Solutions**: Egypt's electricity modernization project (EEHC / Digital Egypt) |
+| 🏗️ **2015–2018** | Site and technical-office engineer on surveying, infrastructure and utilities projects, then moved into software in 2018 |
 
 ### 🛠️ Stack
 
