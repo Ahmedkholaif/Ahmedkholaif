@@ -97,6 +97,6 @@ I've spent 7+ years building scalable backend services, full-stack applications,
 
 ### 🌍 Languages
 
-🇪🇬 **Arabic**: native  ·  🇬🇧 **English**: professional working proficiency
+🇪🇬 **Arabic**: native  ·  🇬🇧 **English**: full professional proficiency (my day-to-day working language)
 
 <div align="center"><sub>More at <a href="https://ahmedkholaif.github.io">ahmedkholaif.github.io</a></sub></div>
