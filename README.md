@@ -27,7 +27,7 @@ I've spent 7+ years building scalable backend services, full-stack applications,
 | 🍳 **Before** | Founding engineer at **The Food Lab** (led the GCP → AWS migration, built Airbyte + dbt pipelines) |
 | 🏛️ | **IBM**: TAMM Abu Dhabi and TradeLens; 🏆 IBM Excellence Award |
 | ⚡ | **Fixed Solutions**: Egypt's electricity modernization project (EEHC / Digital Egypt) |
-| 🏗️ **2015–2018** | Site and technical-office engineer on surveying, infrastructure and utilities projects, then moved into software in 2018 |
+| 🏗️ **2015–2018** | Surveying at **Survey Uptodate Office**, then site and technical-office engineer at **Al-Fath for General Contracting** (AutoCAD, surveying software, deliveries and site operations); moved into software in 2018 |
 
 ### 🛠️ Stack
 
