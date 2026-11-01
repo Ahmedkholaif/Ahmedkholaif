@@ -23,7 +23,7 @@ I've spent 7+ years building scalable backend services, full-stack applications,
 
 | | |
 |---|---|
-| 💳 **Now** | Senior Software Engineer at **Fena**, working on open banking and e-commerce: payments (Stripe, Ryft, Niftipay), invoicing, and an integration hub for Xero / QuickBooks / Shopify / ShipEngine in Node.js and Go |
+| 💳 **Now** | Senior Software Engineer at **Fena**, working on open banking and e-commerce: payments (Stripe, Ryft, Niftipay), invoicing, and an integration hub for Xero / QuickBooks / Shopify / ShipEngine, primarily in Node.js/TypeScript (plus Go since mid-2026) |
 | 🍳 **Before** | Founding engineer at **The Food Lab** (led the GCP → AWS migration, built Airbyte + dbt pipelines) |
 | 🏛️ | **IBM**: TAMM Abu Dhabi and TradeLens; 🏆 IBM Excellence Award |
 | ⚡ | **Fixed Solutions**: Egypt's electricity modernization project (EEHC / Digital Egypt) |
